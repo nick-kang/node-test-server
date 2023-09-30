@@ -15,7 +15,8 @@
   "scripts": {
     "lint": "xo",
     "release": "np",
-    "build": "del-cli dist && tsc"
+    "build": "del-cli dist && tsc",
+		"test": "echo \"TODO\""
   },
   "files": [
     "dist/source"
