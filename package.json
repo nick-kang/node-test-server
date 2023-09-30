@@ -1,7 +1,7 @@
 {
   "name": "node-test-server",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "license": "MIT",
   "type": "module",
@@ -16,7 +16,7 @@
     "lint": "xo",
     "release": "np",
     "build": "del-cli dist && tsc",
-		"test": "echo \"TODO\""
+    "test": "echo \"TODO\""
   },
   "files": [
     "dist/source"
