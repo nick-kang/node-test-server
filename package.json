@@ -1,7 +1,7 @@
 {
   "name": "node-test-server",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "license": "MIT",
   "type": "module",
@@ -21,9 +21,9 @@
   "files": [
     "dist/source"
   ],
-	"publishConfig": {
-		"access": "public"
-	},
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "cwd": "^0.10.0",
